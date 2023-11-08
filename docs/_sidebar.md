@@ -1,1 +1,1 @@
-* [源码之心-zh](README.md)
+* [源码之心](README.md)
